@@ -5,6 +5,8 @@
 <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aayushh__" height="30" width="40" />
 <a href="https://instagram.com/__aayushh___" target="blank">__aayushh___</a>
+  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="__aayushh__" height="30" width="40" />
+<a href="mailto:ayushmanyadav098@gmail.com" target="blank">ayushmanyadav098@gmail.com</a>
 </p>
 
 # 💻 Tech Stack:
